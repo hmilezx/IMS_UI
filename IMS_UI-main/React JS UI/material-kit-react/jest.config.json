@@ -1,0 +1,8 @@
+{
+    "transform": {
+      "^.+\\.(js|jsx|mjs|cjs)$": "babel-jest"
+    },
+    "moduleFileExtensions": ["js", "json", "jsx", "mjs", "cjs"],
+    "setupFilesAfterEnv": ["<rootDir>/jest-setup.js"]
+  }
+  
